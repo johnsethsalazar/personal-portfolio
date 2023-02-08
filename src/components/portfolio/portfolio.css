@@ -38,6 +38,9 @@
         grid-template-columns: 1fr 1fr;
         gap: 1.2rem;
     }
+    #portfolio{
+        margin-top: 25rem;
+    }
 }
 
 /*-----------Media Queries (Small Devices)--------------------*/
@@ -45,5 +48,9 @@
     .portfolio__container{
         grid-template-columns: 1fr;
         gap: 1rem;
+    }
+
+    #portfolio{
+        margin-top: 40rem;
     }
 }

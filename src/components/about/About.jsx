@@ -4,6 +4,7 @@ import DP from '../../assets/dpwithbg.jpeg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
+import {MdWorkOutline} from 'react-icons/md'
 
 const About = () => {
   return (
@@ -23,22 +24,23 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>2+ Years of Experience</small>
+              <small>3+ Years of Work Experience</small>
             </article>
             <article className='about__card'>
-              <FiUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small>N/A+ Worldwide</small>
+              <MdWorkOutline className='about__icon'/>
+              <h5>Work</h5>
+              <small><a href="https://vitals.co/" target='_blank'>Vitals </a></small>
+              <small>Technical Support Analyst</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>N/A+ Completed</small>
+              <small>2 Projects Completed</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cupiditate ipsam commodi aspernatur amet qui quis eveniet, cum hic iste ipsum quam sint magnam esse illum repellendus, mollitia, ab rerum!
+          Likable and dedicated professional with years of experience in the industry. Eager to offer superb real-world analytical and technical skills.
           </p>
 
           <a href='#contact' className='btn btn-primary'> Let's Talk</a>

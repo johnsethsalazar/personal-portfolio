@@ -60,6 +60,10 @@ input, textarea{
         grid-template-columns: 1fr;
         gap: 2rem;
     }
+
+    #contact{
+        padding: 0em 0em 15em 0em;
+    }
 }
 
 /*-----------Media Queries (Small Devices)--------------------*/

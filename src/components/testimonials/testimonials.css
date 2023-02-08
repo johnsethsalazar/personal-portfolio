@@ -36,15 +36,28 @@
     .container.testimonials__container{
         width: 60%;
     }
+
+    #testimonials{
+        margin-top: 50rem;
+    }
 }
 
 /*-----------Media Queries (Small Devices)--------------------*/
 @media screen and (max-width: 600px){
     .container.testimonials__container{
         width: var(--container-width-sm);
+        height: auto;
     }
 
     .client_review{
         width: var(--container-width-sm);
+    }
+
+    #testimonials{
+        margin-top: 130rem;
+    }
+
+    .swiper-backface-hidden .swiper-slide{
+        height: fit-content;
     }
 }

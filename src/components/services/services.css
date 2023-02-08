@@ -59,6 +59,10 @@
     .service{
         height: auto;
     }
+
+    #services{
+        margin-top: 15rem;
+    }
 }
 
 /*-----------Media Queries (Small Devices)--------------------*/

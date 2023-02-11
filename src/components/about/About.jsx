@@ -29,7 +29,7 @@ const About = () => {
             <article className='about__card'>
               <MdWorkOutline className='about__icon'/>
               <h5>Work</h5>
-              <small><a href="https://vitals.co/" target='_blank'>Vitals </a></small>
+              <small><a href="https://vitals.co/" target='_blank'>Vitals </a><br></br></small>
               <small>Technical Support Analyst</small>
             </article>
             <article className='about__card'>

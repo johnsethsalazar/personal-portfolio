@@ -31,6 +31,24 @@
  .swiper-pagination-clickable .swiper-pagination-bullet{
     background-color: var(--color-primary);
 } 
+
+.swiper-backface-hidden .swiper-slide{
+    height: fit-content;
+}
+
+button{
+    background: transparent;
+}
+
+button a:hover{
+    background: var(--color-white);
+    color: var(--color-bg);
+    border-color: transparent;
+}
+
+.more__reviews-btn{
+    text-align: -webkit-center;
+}
 /*-----------Media Queries (Medium Devices)--------------------*/
 @media screen and (max-width: 1024px){
     .container.testimonials__container{

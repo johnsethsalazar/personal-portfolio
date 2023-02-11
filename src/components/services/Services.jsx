@@ -77,23 +77,11 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Has basic understanding of computer networking</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Has an experience in setting up routers, switches, access points, on-premise servers and other related hardware.</p>
             </li>
           </ul>
         </article>

@@ -53,10 +53,11 @@ button a:hover{
 @media screen and (max-width: 1024px){
     .container.testimonials__container{
         width: 60%;
+        height: fit-content;
     }
 
     #testimonials{
-        margin-top: 50rem;
+        margin-top: -10rem;
     }
 }
 
@@ -72,7 +73,7 @@ button a:hover{
     }
 
     #testimonials{
-        margin-top: 130rem;
+        margin-top: 10rem;
     }
 
     .swiper-backface-hidden .swiper-slide{

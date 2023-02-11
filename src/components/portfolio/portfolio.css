@@ -39,7 +39,10 @@
         gap: 1.2rem;
     }
     #portfolio{
-        margin-top: 25rem;
+        margin-top: 35rem;
+    }
+    .portfolio__item{
+        height: fit-content;
     }
 }
 
@@ -51,6 +54,6 @@
     }
 
     #portfolio{
-        margin-top: 40rem;
+        margin-top: 70rem;
     }
 }

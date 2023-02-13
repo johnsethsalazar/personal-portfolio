@@ -2,10 +2,6 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/therandompasswordgenerator.png'
 import IMG2 from '../../assets/desktopdashboard.png'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
 
 //Do not use the images in production
 

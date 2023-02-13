@@ -54,6 +54,11 @@ input, textarea{
     color: var(--color-white);
 }
 
+.scroll__down:hover{
+    font-weight: 700;
+    transition-duration: 1s;
+}
+
 /*-----------Media Queries (Medium Devices)--------------------*/
 @media screen and (max-width: 1024px){
     .container.contact__container{

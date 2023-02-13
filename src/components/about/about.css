@@ -89,6 +89,10 @@
     #portfolio{
         margin-top: 35rem;
     }
+
+    #about{
+        margin-bottom: 35rem;
+    }
 }
 
 /*-----------Media Queries (Small Devices)--------------------*/

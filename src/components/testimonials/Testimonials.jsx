@@ -25,7 +25,7 @@ const data = [
     avatar: AVTR2,
     name: 'Tasty Snack Asia',
     url: 'https://www.tastysnack.asia/',
-    review: 'Very fast customer support from John! He promptly resolved my issues and proveded extra insights into improving my site.'
+    review: 'Very fast customer support from John! He promptly resolved my issues and provided extra insights into improving my site.'
   },
   {
     avatar: AVTR3,

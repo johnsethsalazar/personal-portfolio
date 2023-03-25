@@ -2,6 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/therandompasswordgenerator.png'
 import IMG2 from '../../assets/desktopdashboard.png'
+import IMG3 from '../../assets/travel-journal.png'
 
 //Do not use the images in production
 
@@ -19,6 +20,13 @@ const data = [
     title: 'Desktop Personal Multiwidget Dashboard',
     github: 'https://github.com/johnsethsalazar/multiwidget-dashboard',
     demo: 'https://multiwidget-dashboard-johnsethsalazar.netlify.app/'
+  },
+  {
+    id: 3,
+    image: IMG3,
+    title: 'Travel Journal',
+    github: 'https://github.com/johnsethsalazar/react-travel-journal',
+    demo: 'https://johnseth-traveljournal.netlify.app/'
   }
 ]
 

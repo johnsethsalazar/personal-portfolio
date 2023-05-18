@@ -3,6 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/therandompasswordgenerator.png'
 import IMG2 from '../../assets/desktopdashboard.png'
 import IMG3 from '../../assets/travel-journal.png'
+import IMG4 from '../../assets/quizzical-app.png'
 
 //Do not use the images in production
 
@@ -27,6 +28,13 @@ const data = [
     title: 'Travel Journal',
     github: 'https://github.com/johnsethsalazar/react-travel-journal',
     demo: 'https://johnseth-traveljournal.netlify.app/'
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: 'The Quizzical App',
+    github: 'https://github.com/johnsethsalazar/react-quizzical-app',
+    demo: 'https://thequizzical.netlify.app/'
   }
 ]
 
